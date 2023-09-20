@@ -1,0 +1,12 @@
+.form-wrapper {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 200px;
+}
+
+.send-button {
+ max-width: 12px;
+}
+
